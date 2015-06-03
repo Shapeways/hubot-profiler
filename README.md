@@ -1,5 +1,5 @@
 # hubot profiler
-Hubot script to profile statistics of a website from within Slack.
+Hubot script to profile statistics of a website.
 So far, supports lookup of website response time, 
 but more is planned!
 ##Installation
