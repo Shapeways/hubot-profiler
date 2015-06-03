@@ -1,0 +1,19 @@
+{
+  "name": "hubot-profiler",
+  "version": "0.0.1",
+  "description": "Profiler tool for hubot. Currently gets response time of desired website",
+  "keywords": ["hubot", "profiler", "slack", "response-time"],
+  "author": "Ellington Kirby <ellington@shapeways.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shapeways/hubot-profiler"
+  },
+  "license": "Apache 2.0",
+  "readmeFilename": "README.md",
+  "main": "index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.6.0 < 3.0.0",
+    "request": "~2.56.0",
+    "hubot-slack": "~3.3.0"
+  }
+}
