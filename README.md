@@ -1,7 +1,7 @@
 # hubot profiler
 Hubot script to profile statistics of a website from within Slack.
-So far, supports lookup of website response time
-More planned!
+So far, supports lookup of website response time, 
+but more is planned!
 ##Installation
 Add `hubot-profiler` as a dependecy in your `packages.json` file
 ```
